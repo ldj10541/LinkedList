@@ -1,5 +1,9 @@
 public class Main{
   public static void main(String [] artgs){
  
+  SinglyLinkedList 11 = new SinglyLinkedList();
+  System.out.println(11);
+  System.out.println(11,getHead());
+  System.out.println(11.getSize());
  }
 }
